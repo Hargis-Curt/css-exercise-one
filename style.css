@@ -59,7 +59,7 @@ section {
   width: 60%;
 }
 
- h1 {
+example, h1 {
   font-family: sans-serif;
   font-size: 2em;
 }
@@ -76,7 +76,7 @@ section {
   margin: 10px 0;
   width: 100%;
 }
-/*.bgcolor class changes the color of last 3 divs*/
+/*CSS changing the background color of last three divs*/
 div.bgcolor{
   background-color: red;
 	height: 100px;
